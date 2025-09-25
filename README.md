@@ -47,8 +47,9 @@
         </div>
         <footer>I failed as your man.</footer>
       </div>
+      <div>
       <aside class="side photo">
-        <img id="mainPhoto" src="ashley.jpg" style="opacity:0lt="Couple photo">
+<img id="mainPhoheasplitodyhley.jpg" style="opacity:0lt="Couple photo">
         <div class="caption">Look You're so beautiful ✨</div>
       </aside>
     </div>
@@ -81,7 +82,7 @@
     .photo img{ width:100%; max-width:320px; border-radius:10px; display:block; box-shadow:0 8px 30px rgba(2,6,23,0.6); transition:opacity 1s ease-intext-aign  .caption{font-size:0.95rem; text-align:centetex ignontrols{display:flex; gap:12px; margin-top:8px}
     button{background:linear-gradient(90deg,var(--accent),var(--accent-2)); border:none; color:#111; padding:10px 14px; border-radius:12px; font-weight:700; cursor:pointer; box-shadow:0 6px 18px rgba(255,107,154,0.12)}font-sizeage{ margin-top:18px; padding:16px; background:var(--glass); border-radius:12px; color:#fff; line-height:1.5; font-size:1rem }fo-sizeoter{ margin-top:14px; color:rgba(255,255,255,0.45); font-size:0.86rem }
   </style>
-</heasplitody>
+</head>
   <div class="card">
     <div class="split">
       <div class="greeting">
